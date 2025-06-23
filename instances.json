@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-21",
+  "updated": "2025-06-23",
   "instances": [
     {
       "url": "https://eu.safereddit.com",
@@ -19,8 +19,8 @@
       "cloudflare": true
     },
     {
-      "url": "https://libreddit.privacydev.net",
-      "country": "FR",
+      "url": "https://redlib.tux.pizza",
+      "country": "US",
       "version": "v0.36.0"
     },
     {
@@ -33,11 +33,6 @@
       "country": "DE",
       "version": "v0.36.0",
       "cloudflare": true
-    },
-    {
-      "url": "https://red.ngn.tf",
-      "country": "TR",
-      "version": "v0.36.0"
     },
     {
       "url": "https://red.artemislena.eu",
