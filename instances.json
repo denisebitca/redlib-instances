@@ -1,15 +1,9 @@
 {
-  "updated": "2025-07-31",
+  "updated": "2025-08-01",
   "instances": [
     {
       "url": "https://safereddit.com",
       "country": "US",
-      "version": "v0.36.0",
-      "description": "SFW only"
-    },
-    {
-      "url": "https://eu.safereddit.com",
-      "country": "DE",
       "version": "v0.36.0",
       "description": "SFW only"
     },
@@ -25,20 +19,15 @@
       "cloudflare": true
     },
     {
-      "url": "https://redlib.tux.pizza",
-      "country": "US",
-      "version": "v0.36.0"
-    },
-    {
       "url": "https://rl.bloat.cat",
       "country": "RO",
       "version": "v0.36.0"
     },
     {
-      "url": "https://r.darrennathanael.com",
-      "country": "ID",
+      "url": "https://red.artemislena.eu",
+      "country": "DE",
       "version": "v0.36.0",
-      "description": "contact noc at darrennathanael.com"
+      "description": "Be crime do gay"
     },
     {
       "url": "https://redlib.privacyredirect.com",
@@ -46,15 +35,9 @@
       "version": "v0.36.0"
     },
     {
-      "url": "https://reddit.nerdvpn.de",
-      "country": "UA",
-      "version": "v0.36.0",
-      "description": "SFW only"
-    },
-    {
-      "url": "https://redlib.4o1x5.dev",
-      "country": "HU",
-      "version": "v0.35.1"
+      "url": "https://redlib.baczek.me",
+      "country": "PL",
+      "version": "v0.36.0"
     },
     {
       "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
