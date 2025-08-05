@@ -3,7 +3,6 @@
 |https://eu.safereddit.com|WWW|v0.36.0|🇩🇪 DE||SFW only|
 |https://redlib.catsarch.com|WWW|v0.36.0|🇺🇸 US|||
 |https://redlib.perennialte.ch|WWW|v0.36.0|🇦🇺 AU|✅||
-|https://redlib.tux.pizza|WWW|v0.36.0|🇺🇸 US|||
 |https://rl.bloat.cat|WWW|v0.36.0|🇷🇴 RO|||
 |https://red.artemislena.eu|WWW|v0.36.0|🇩🇪 DE||Be crime do gay|
 |https://redlib.privacyredirect.com|WWW|v0.36.0|🇫🇮 FI|||

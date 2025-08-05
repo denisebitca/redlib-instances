@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-03",
+  "updated": "2025-08-05",
   "instances": [
     {
       "url": "https://eu.safereddit.com",
@@ -17,11 +17,6 @@
       "country": "AU",
       "version": "v0.36.0",
       "cloudflare": true
-    },
-    {
-      "url": "https://redlib.tux.pizza",
-      "country": "US",
-      "version": "v0.36.0"
     },
     {
       "url": "https://rl.bloat.cat",
