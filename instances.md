@@ -1,6 +1,7 @@
 |URL|Network|Version|Location|Behind Cloudflare?|Comment|
 |-|-|-|-|-|-|
 |https://eu.safereddit.com|WWW|v0.36.0|🇩🇪 DE||SFW only|
+|https://l.opnxng.com|WWW|v0.36.0|🇸🇬 SG|||
 |https://redlib.catsarch.com|WWW|v0.36.0|🇺🇸 US|||
 |https://redlib.perennialte.ch|WWW|v0.36.0|🇦🇺 AU|✅||
 |https://rl.bloat.cat|WWW|v0.36.0|🇷🇴 RO|||
