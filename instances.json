@@ -1,12 +1,6 @@
 {
-  "updated": "2025-08-07",
+  "updated": "2025-08-09",
   "instances": [
-    {
-      "url": "https://eu.safereddit.com",
-      "country": "DE",
-      "version": "v0.36.0",
-      "description": "SFW only"
-    },
     {
       "url": "https://l.opnxng.com",
       "country": "SG",
@@ -22,6 +16,11 @@
       "country": "AU",
       "version": "v0.36.0",
       "cloudflare": true
+    },
+    {
+      "url": "https://libreddit.privacydev.net",
+      "country": "FR",
+      "version": "v0.36.0"
     },
     {
       "url": "https://rl.bloat.cat",
@@ -44,11 +43,6 @@
       "country": "UA",
       "version": "v0.36.0",
       "description": "SFW only"
-    },
-    {
-      "url": "https://redlib.4o1x5.dev",
-      "country": "HU",
-      "version": "v0.35.1"
     },
     {
       "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
