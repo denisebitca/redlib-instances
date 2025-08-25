@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-23",
+  "updated": "2025-08-25",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -30,8 +30,8 @@
       "cloudflare": true
     },
     {
-      "url": "https://libreddit.privacydev.net",
-      "country": "FR",
+      "url": "https://redlib.tux.pizza",
+      "country": "US",
       "version": "v0.36.0"
     },
     {
