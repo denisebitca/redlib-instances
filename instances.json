@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-31",
+  "updated": "2025-09-01",
   "instances": [
     {
       "url": "https://eu.safereddit.com",
@@ -24,13 +24,13 @@
       "cloudflare": true
     },
     {
-      "url": "https://rl.bloat.cat",
-      "country": "RO",
+      "url": "https://redlib.tux.pizza",
+      "country": "US",
       "version": "v0.36.0"
     },
     {
-      "url": "https://reddit.owo.si",
-      "country": "DE",
+      "url": "https://rl.bloat.cat",
+      "country": "RO",
       "version": "v0.36.0"
     },
     {
