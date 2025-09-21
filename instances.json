@@ -1,9 +1,9 @@
 {
-  "updated": "2025-09-19",
+  "updated": "2025-09-21",
   "instances": [
     {
-      "url": "https://safereddit.com",
-      "country": "US",
+      "url": "https://eu.safereddit.com",
+      "country": "DE",
       "version": "v0.36.0",
       "description": "SFW only"
     },
@@ -17,6 +17,11 @@
       "country": "AU",
       "version": "v0.36.0",
       "cloudflare": true
+    },
+    {
+      "url": "https://reddit.owo.si",
+      "country": "DE",
+      "version": "v0.36.0"
     },
     {
       "url": "https://red.artemislena.eu",
