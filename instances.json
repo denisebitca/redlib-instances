@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-05",
+  "updated": "2025-10-07",
   "instances": [
     {
       "url": "https://redlib.perennialte.ch",
@@ -21,11 +21,6 @@
     {
       "url": "https://redlib.privacyredirect.com",
       "country": "FI",
-      "version": "v0.36.0"
-    },
-    {
-      "url": "https://redlib.baczek.me",
-      "country": "PL",
       "version": "v0.36.0"
     },
     {
