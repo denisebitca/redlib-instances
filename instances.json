@@ -1,6 +1,11 @@
 {
-  "updated": "2025-10-07",
+  "updated": "2025-10-09",
   "instances": [
+    {
+      "url": "https://l.opnxng.com",
+      "country": "SG",
+      "version": "v0.36.0"
+    },
     {
       "url": "https://redlib.perennialte.ch",
       "country": "AU",
@@ -8,8 +13,13 @@
       "cloudflare": true
     },
     {
-      "url": "https://redlib.nohost.network",
-      "country": "MX",
+      "url": "https://redlib.tux.pizza",
+      "country": "US",
+      "version": "v0.36.0"
+    },
+    {
+      "url": "https://redlib.ducks.party",
+      "country": "NL",
       "version": "v0.36.0"
     },
     {
@@ -21,6 +31,11 @@
     {
       "url": "https://redlib.privacyredirect.com",
       "country": "FI",
+      "version": "v0.36.0"
+    },
+    {
+      "url": "https://redlib.baczek.me",
+      "country": "PL",
       "version": "v0.36.0"
     },
     {
