@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-09",
+  "updated": "2025-10-11",
   "instances": [
     {
       "url": "https://l.opnxng.com",
@@ -15,6 +15,11 @@
     {
       "url": "https://redlib.tux.pizza",
       "country": "US",
+      "version": "v0.36.0"
+    },
+    {
+      "url": "https://redlib.nohost.network",
+      "country": "MX",
       "version": "v0.36.0"
     },
     {
