@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-11",
+  "updated": "2025-10-13",
   "instances": [
     {
       "url": "https://l.opnxng.com",
@@ -11,11 +11,6 @@
       "country": "AU",
       "version": "v0.36.0",
       "cloudflare": true
-    },
-    {
-      "url": "https://redlib.tux.pizza",
-      "country": "US",
-      "version": "v0.36.0"
     },
     {
       "url": "https://redlib.nohost.network",
@@ -36,11 +31,6 @@
     {
       "url": "https://redlib.privacyredirect.com",
       "country": "FI",
-      "version": "v0.36.0"
-    },
-    {
-      "url": "https://redlib.baczek.me",
-      "country": "PL",
       "version": "v0.36.0"
     },
     {
