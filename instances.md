@@ -3,9 +3,7 @@
 |https://l.opnxng.com|WWW|v0.36.0|🇸🇬 SG|||
 |https://redlib.catsarch.com|WWW|v0.36.0|🇺🇸 US|||
 |https://redlib.perennialte.ch|WWW|v0.36.0|🇦🇺 AU|✅||
-|https://redlib.ducks.party|WWW|v0.36.0|🇳🇱 NL|||
 |https://red.artemislena.eu|WWW|v0.36.0|🇩🇪 DE||Be crime do gay|
-|https://reddit.nerdvpn.de|WWW|v0.36.0|🇺🇦 UA||SFW only|
 |https://redlib.4o1x5.dev|WWW|v0.36.0|🇭🇺 HU|||
 |https://redlib.frontendfriendly.xyz|WWW|v0.36.0|🇽🇽 XX|||
 |https://redlib.reallyaweso.me|WWW|v0.36.0|🇩🇪 DE||A reallyaweso.me redlib instance!|
