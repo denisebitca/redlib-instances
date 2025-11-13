@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-11",
+  "updated": "2025-11-13",
   "instances": [
     {
       "url": "https://redlib.catsarch.com",
@@ -17,11 +17,6 @@
       "country": "DE",
       "version": "v0.36.0",
       "description": "Be crime do gay"
-    },
-    {
-      "url": "https://redlib.privacyredirect.com",
-      "country": "FI",
-      "version": "v0.36.0"
     },
     {
       "url": "https://redlib.nadeko.net",
