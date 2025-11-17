@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-15",
+  "updated": "2025-11-17",
   "instances": [
     {
       "url": "https://redlib.catsarch.com",
@@ -18,9 +18,10 @@
       "version": "v0.36.0"
     },
     {
-      "url": "https://redlib.privacyredirect.com",
-      "country": "FI",
-      "version": "v0.36.0"
+      "url": "https://red.artemislena.eu",
+      "country": "DE",
+      "version": "v0.36.0",
+      "description": "Be crime do gay"
     },
     {
       "url": "https://redlib.nadeko.net",
@@ -37,12 +38,6 @@
       "url": "https://redlib.frontendfriendly.xyz",
       "country": "XX",
       "version": "v0.36.0"
-    },
-    {
-      "url": "https://redlib.reallyaweso.me",
-      "country": "DE",
-      "version": "v0.36.0",
-      "description": "A reallyaweso.me redlib instance!"
     },
     {
       "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
