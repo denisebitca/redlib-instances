@@ -1,6 +1,11 @@
 {
-  "updated": "2025-12-03",
+  "updated": "2025-12-05",
   "instances": [
+    {
+      "url": "https://l.opnxng.com",
+      "country": "SG",
+      "version": "v0.36.0"
+    },
     {
       "url": "https://redlib.catsarch.com",
       "country": "US",
@@ -11,50 +16,6 @@
       "country": "AU",
       "version": "v0.36.0",
       "cloudflare": true
-    },
-    {
-      "url": "https://redlib.r4fo.com",
-      "country": "DE",
-      "version": "v0.36.0",
-      "cloudflare": true
-    },
-    {
-      "url": "https://redlib.ducks.party",
-      "country": "NL",
-      "version": "v0.36.0"
-    },
-    {
-      "url": "https://red.artemislena.eu",
-      "country": "DE",
-      "version": "v0.36.0",
-      "description": "Be crime do gay"
-    },
-    {
-      "url": "https://redlib.privacyredirect.com",
-      "country": "FI",
-      "version": "v0.36.0"
-    },
-    {
-      "url": "https://redlib.nadeko.net",
-      "country": "CL",
-      "version": "v0.36.0",
-      "description": "I don't like reddit."
-    },
-    {
-      "url": "https://redlib.4o1x5.dev",
-      "country": "HU",
-      "version": "v0.36.0"
-    },
-    {
-      "url": "https://redlib.frontendfriendly.xyz",
-      "country": "XX",
-      "version": "v0.36.0"
-    },
-    {
-      "url": "https://redlib.reallyaweso.me",
-      "country": "DE",
-      "version": "v0.36.0",
-      "description": "A reallyaweso.me redlib instance!"
     },
     {
       "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
