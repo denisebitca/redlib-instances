@@ -1,5 +1,6 @@
 |URL|Network|Version|Location|Behind Cloudflare?|Comment|
 |-|-|-|-|-|-|
+|https://l.opnxng.com|WWW|v0.36.0|🇸🇬 SG|||
 |https://redlib.catsarch.com|WWW|v0.36.0|🇺🇸 US|||
 |https://redlib.cow.rip|WWW|v0.36.0|🇮🇳 IN|✅||
 |https://redlib.privacyredirect.com|WWW|v0.36.0|🇫🇮 FI|||
