@@ -1,11 +1,6 @@
 {
-  "updated": "2026-01-17",
+  "updated": "2026-01-19",
   "instances": [
-    {
-      "url": "https://l.opnxng.com",
-      "country": "SG",
-      "version": "v0.36.0"
-    },
     {
       "url": "https://redlib.catsarch.com",
       "country": "US",
@@ -22,6 +17,11 @@
       "country": "DE",
       "version": "v0.36.0",
       "cloudflare": true
+    },
+    {
+      "url": "https://redlib.ducks.party",
+      "country": "NL",
+      "version": "v0.36.0"
     },
     {
       "url": "https://red.artemislena.eu",
