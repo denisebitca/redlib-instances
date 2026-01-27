@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-25",
+  "updated": "2026-01-27",
   "instances": [
     {
       "url": "https://l.opnxng.com",
@@ -18,9 +18,10 @@
       "cloudflare": true
     },
     {
-      "url": "https://redlib.ducks.party",
-      "country": "NL",
-      "version": "v0.36.0"
+      "url": "https://redlib.r4fo.com",
+      "country": "DE",
+      "version": "v0.36.0",
+      "cloudflare": true
     },
     {
       "url": "https://red.artemislena.eu",
@@ -33,17 +34,6 @@
       "country": "IN",
       "version": "v0.36.0",
       "cloudflare": true
-    },
-    {
-      "url": "https://redlib.nadeko.net",
-      "country": "CL",
-      "version": "v0.36.0",
-      "description": "I don't like reddit."
-    },
-    {
-      "url": "https://redlib.4o1x5.dev",
-      "country": "HU",
-      "version": "v0.36.0"
     },
     {
       "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
