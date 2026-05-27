@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-25",
+  "updated": "2026-05-27",
   "instances": [
     {
       "url": "https://redlib.catsarch.com",
@@ -19,6 +19,11 @@
       "cloudflare": true
     },
     {
+      "url": "https://redlib.ducks.party",
+      "country": "NL",
+      "version": "v0.36.0"
+    },
+    {
       "url": "https://red.artemislena.eu",
       "country": "DE",
       "version": "v0.36.0",
@@ -29,6 +34,11 @@
       "country": "IN",
       "version": "v0.36.0",
       "cloudflare": true
+    },
+    {
+      "url": "https://redlib.privacyredirect.com",
+      "country": "FI",
+      "version": "v0.36.0"
     },
     {
       "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
