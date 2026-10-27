@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25",
+  "updated": "2026-10-27",
   "instances": [
     {
       "url": "https://safereddit.com",
@@ -10,24 +10,18 @@
     {
       "url": "https://redlib.catsarch.com",
       "country": "US",
-      "version": "v0.36.0"
+      "version": "v0.40.0"
     },
     {
-      "url": "https://redlib.r4fo.com",
-      "country": "DE",
-      "version": "v0.36.0",
-      "cloudflare": true
+      "url": "https://redlib.ducks.party",
+      "country": "NL",
+      "version": "v0.40.0"
     },
     {
       "url": "https://redlib.cow.rip",
       "country": "IN",
       "version": "v0.40.0",
       "cloudflare": true
-    },
-    {
-      "url": "https://redlib.privacyredirect.com",
-      "country": "FI",
-      "version": "v0.36.0"
     },
     {
       "onion": "http://red.lpoaj7z2zkajuhgnlltpeqh3zyq7wk2iyeggqaduhgxhyajtdt2j7wad.onion",
